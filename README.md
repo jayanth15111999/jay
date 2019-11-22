@@ -1,0 +1,2 @@
+# jay
+There should be a google app where people can speak different languages and then it should be converted to any other language but output should be both writing and speaking. This idea is helpful to blind so that they can speak in any language and it should be converted to english and writings should be saved and assistance should read the written content so that people can confirm the given information is correct. This idea could be helpful. Thank you #AndroidDevChallenge
